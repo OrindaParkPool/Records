@@ -10,11 +10,11 @@ Swim Event Records Keeping associated with Orinda Park Pool
 
 2. Rossette Inventory
 * Inventory the left shed on the basketball court for rossettes.
-++ Pool records
-++ Team records
-++ Relays
-++ First, second, third
-++ Send an e-mail with final inventory of ribbons and rosettes to (amyspillane@comcast.dot.net) for restocking.
++   Pool records
++   Team records
++   Relays
++   First, second, third
++   Send an e-mail with final inventory of ribbons and rosettes to (amyspillane@comcast.dot.net) for restocking.
 
 3. Website Record Parity with Meet Manager
 * Mail matt nichelini (mjnichelini@mac.dot.com) to request year-end report for previous season from Meet Manager
