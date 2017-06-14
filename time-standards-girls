@@ -1,37 +1,192 @@
-2017 Girls Time Standards
+<h2>2017 Girls Time Standards</h2>
 
-All 9 teams within the Orinda Moraga Pool Association (OMPA) have agreed to a set of time standards which can be viewed below or by going directly to the OMPA web site at www.ompaswim.com. Our league's Gold time standards correspond to the Contra Costa County Championship Meet qualifying time in each event.
+<p style="font-family:arial;font-size:18px;max-width:600px">All 9 teams within the Orinda Moraga Pool Association (OMPA) have agreed to a set of time standards which can be viewed below or by going directly to the OMPA web site at <a href="www.ompaswim.com">www.ompaswim.com</a>. Our league&#39;s Gold time standards correspond to the Contra Costa County Championship Meet qualifying time in each event.</p>
 
-* denotes a change from the 2016 Time Standard.
-** OMPA only -- County Event is 100Y.
+<p>* denotes a change from the 2016 Time Standard.<br />
+** OMPA only -- County Event is 100Y.</p>
 
-OMPA
-TIME STANDARDS
-GIRLS	BRONZE	6&U	7-8s	9-10s	11-12s	13-14s	15-18s
-(50Y)	15-18s
-(100Y)
-SILVER
-GOLD
-FREESTYLE	32.00	22.00	41.00	36.00	34.00	32.50	1:12.00
-25.00	19.00	37.00	33.00	30.50	30.50	1:08.00
-20.88	16.44	31.88	28.97	27.78	26.99**	59.43
-BREASTSTROKE	40.00	29.00	52.50	46.50	43.00	42.00	1:34.00
-34.00	26.00	49.00	42.50	39.50	39.00	1:27.00
-29.91	22.61	41.88	37.91	36.23	34.99**	1:17.97
-BACKSTROKE	38.00	27.50	49.00	43.00	41.00	40.00	1:26.00
-32.00	24.00	44.00	40.00	37.50	37.00	1:19.00
-25.95	20.69	38.33	34.13	32.57	31.50**	1:10.13
-BUTTERFLY	38.00	26.00	48.00	42.00	39.00	39.00	1:24.00
-31.00	23.00	43.00	38.00	34.50	34.50	1:17.00
-25.37	18.18	36.60	32.03	30.62	30.25**	1:08.39
-INDIVIDUAL MEDLEY	
-2:10.00	1:45.00	1:35.00	1:26.00	
-1:23.00
-
-1:55.00	1:35.00	1:26.00	1:19.50	
-1:16.00
-
-1:39.74	1:23.80	1:15.34	1:11.87	
-1:09.41
-MEDLEY RELAY	1:52.74	1:24.07	2:34.90	2:17.41	2:08.92	2:06.33	
-FREE RELAY	1:36.15	1:12.74	2:13.13	2:00.94	1:59.43	1:56.13	
+<table border="1" cellpadding="5" style="background-color:white;font-family:arial;font-size:15px;">
+	<tbody>
+		<tr style="text-align:center;">
+			<th rowspan="3">OMPA<br />
+			TIME STANDARDS<br />
+			GIRLS</th>
+			<th style="background-color:darkgoldenrod">BRONZE</th>
+			<th rowspan="3">6&amp;U</th>
+			<th rowspan="3">7-8s</th>
+			<th rowspan="3">9-10s</th>
+			<th rowspan="3">11-12s</th>
+			<th rowspan="3">13-14s</th>
+			<th rowspan="3">15-18s<br />
+			(50Y)</th>
+			<th rowspan="3">15-18s<br />
+			(100Y)</th>
+		</tr>
+		<tr style="text-align:center;">
+			<th style="background-color:silver">SILVER</th>
+		</tr>
+		<tr style="text-align:center;">
+			<th style="background-color:gold">GOLD</th>
+		</tr>
+		<tr style="text-align:center;">
+			<th colspan="2" rowspan="3">FREESTYLE</th>
+			<th style="background-color:darkgoldenrod">32.00</th>
+			<th style="background-color:darkgoldenrod">22.00</th>
+			<th style="background-color:darkgoldenrod">41.00</th>
+			<th style="background-color:darkgoldenrod">36.00</th>
+			<th style="background-color:darkgoldenrod">34.00</th>
+			<th style="background-color:darkgoldenrod">32.50</th>
+			<th style="background-color:darkgoldenrod">1:12.00</th>
+		</tr>
+		<tr style="text-align:center;">
+			<th style="background-color:silver">25.00</th>
+			<th style="background-color:silver">19.00</th>
+			<th style="background-color:silver">37.00</th>
+			<th style="background-color:silver">33.00</th>
+			<th style="background-color:silver">30.50</th>
+			<th style="background-color:silver">30.50</th>
+			<th style="background-color:silver">1:08.00</th>
+		</tr>
+		<tr style="text-align:center;">
+			<th style="background-color:gold">20.88</th>
+			<th style="background-color:gold">16.44</th>
+			<th style="background-color:gold">31.88</th>
+			<th style="background-color:gold">28.97</th>
+			<th style="background-color:gold">27.78</th>
+			<th style="background-color:gold">26.99**</th>
+			<th style="background-color:gold">59.43</th>
+		</tr>
+		<tr style="text-align:center;">
+			<th colspan="2" rowspan="3">BREASTSTROKE</th>
+			<th style="background-color:darkgoldenrod">40.00</th>
+			<th style="background-color:darkgoldenrod">29.00</th>
+			<th style="background-color:darkgoldenrod">52.50</th>
+			<th style="background-color:darkgoldenrod">46.50</th>
+			<th style="background-color:darkgoldenrod">43.00</th>
+			<th style="background-color:darkgoldenrod">42.00</th>
+			<th style="background-color:darkgoldenrod">1:34.00</th>
+		</tr>
+		<tr style="text-align:center;">
+			<th style="background-color:silver">34.00</th>
+			<th style="background-color:silver">26.00</th>
+			<th style="background-color:silver">49.00</th>
+			<th style="background-color:silver">42.50</th>
+			<th style="background-color:silver">39.50</th>
+			<th style="background-color:silver">39.00</th>
+			<th style="background-color:silver">1:27.00</th>
+		</tr>
+		<tr style="text-align:center;">
+			<th style="background-color:gold">29.91</th>
+			<th style="background-color:gold">22.61</th>
+			<th style="background-color:gold">41.88</th>
+			<th style="background-color:gold">37.91</th>
+			<th style="background-color:gold">36.23</th>
+			<th style="background-color:gold">34.99**</th>
+			<th style="background-color:gold">1:17.97</th>
+		</tr>
+		<tr style="text-align:center;">
+			<th colspan="2" rowspan="3">BACKSTROKE</th>
+			<th style="background-color:darkgoldenrod">38.00</th>
+			<th style="background-color:darkgoldenrod">27.50</th>
+			<th style="background-color:darkgoldenrod">49.00</th>
+			<th style="background-color:darkgoldenrod">43.00</th>
+			<th style="background-color:darkgoldenrod">41.00</th>
+			<th style="background-color:darkgoldenrod">40.00</th>
+			<th style="background-color:darkgoldenrod">1:26.00</th>
+		</tr>
+		<tr style="text-align:center;">
+			<th style="background-color:silver">32.00</th>
+			<th style="background-color:silver">24.00</th>
+			<th style="background-color:silver">44.00</th>
+			<th style="background-color:silver">40.00</th>
+			<th style="background-color:silver">37.50</th>
+			<th style="background-color:silver">37.00</th>
+			<th style="background-color:silver">1:19.00</th>
+		</tr>
+		<tr style="text-align:center;">
+			<th style="background-color:gold">25.95</th>
+			<th style="background-color:gold">20.69</th>
+			<th style="background-color:gold">38.33</th>
+			<th style="background-color:gold">34.13</th>
+			<th style="background-color:gold">32.57</th>
+			<th style="background-color:gold">31.50**</th>
+			<th style="background-color:gold">1:10.13</th>
+		</tr>
+		<tr style="text-align:center;">
+			<th colspan="2" rowspan="3">BUTTERFLY</th>
+			<th style="background-color:darkgoldenrod">38.00</th>
+			<th style="background-color:darkgoldenrod">26.00</th>
+			<th style="background-color:darkgoldenrod">48.00</th>
+			<th style="background-color:darkgoldenrod">42.00</th>
+			<th style="background-color:darkgoldenrod">39.00</th>
+			<th style="background-color:darkgoldenrod">39.00</th>
+			<th style="background-color:darkgoldenrod">1:24.00</th>
+		</tr>
+		<tr style="text-align:center;">
+			<th style="background-color:silver">31.00</th>
+			<th style="background-color:silver">23.00</th>
+			<th style="background-color:silver">43.00</th>
+			<th style="background-color:silver">38.00</th>
+			<th style="background-color:silver">34.50</th>
+			<th style="background-color:silver">34.50</th>
+			<th style="background-color:silver">1:17.00</th>
+		</tr>
+		<tr style="text-align:center;">
+			<th style="background-color:gold">25.37</th>
+			<th style="background-color:gold">18.18</th>
+			<th style="background-color:gold">36.60</th>
+			<th style="background-color:gold">32.03</th>
+			<th style="background-color:gold">30.62</th>
+			<th style="background-color:gold">30.25**</th>
+			<th style="background-color:gold">1:08.39</th>
+		</tr>
+		<tr style="text-align:center;">
+			<th colspan="2" rowspan="3">INDIVIDUAL MEDLEY</th>
+			<th>&nbsp;</th>
+			<th style="background-color:darkgoldenrod">2:10.00</th>
+			<th style="background-color:darkgoldenrod">1:45.00</th>
+			<th style="background-color:darkgoldenrod">1:35.00</th>
+			<th style="background-color:darkgoldenrod">1:26.00</th>
+			<th>&nbsp;</th>
+			<th style="background-color:darkgoldenrod">1:23.00</th>
+		</tr>
+		<tr style="text-align:center;">
+			<th>&nbsp;</th>
+			<th style="background-color:silver">1:55.00</th>
+			<th style="background-color:silver">1:35.00</th>
+			<th style="background-color:silver">1:26.00</th>
+			<th style="background-color:silver">1:19.50</th>
+			<th>&nbsp;</th>
+			<th style="background-color:silver">1:16.00</th>
+		</tr>
+		<tr style="text-align:center;">
+			<th>&nbsp;</th>
+			<th style="background-color:gold">1:39.74</th>
+			<th style="background-color:gold">1:23.80</th>
+			<th style="background-color:gold">1:15.34</th>
+			<th style="background-color:gold">1:11.87</th>
+			<th>&nbsp;</th>
+			<th style="background-color:gold">1:09.41</th>
+		</tr>
+		<tr style="text-align:center;">
+			<th colspan="2" rowspan="1">MEDLEY RELAY</th>
+			<th style="background-color:gold">1:52.74</th>
+			<th style="background-color:gold">1:24.07</th>
+			<th style="background-color:gold">2:34.90</th>
+			<th style="background-color:gold">2:17.41</th>
+			<th style="background-color:gold">2:08.92</th>
+			<th style="background-color:gold">2:06.33</th>
+			<th>&nbsp;</th>
+		</tr>
+		<tr style="text-align:center;">
+			<th colspan="2" rowspan="1">FREE RELAY</th>
+			<th style="background-color:gold">1:36.15</th>
+			<th style="background-color:gold">1:12.74</th>
+			<th style="background-color:gold">2:13.13</th>
+			<th style="background-color:gold">2:00.94</th>
+			<th style="background-color:gold">1:59.43</th>
+			<th style="background-color:gold">1:56.13</th>
+			<th>&nbsp;</th>
+		</tr>
+	</tbody>
+</table>
