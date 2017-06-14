@@ -1,0 +1,599 @@
+<html>
+<body>
+
+<!-- 
+ORINDA PARK POOL TEAM RECORDS BOYS
+the records are entered as javascript arrays
+
+1=6&unders; 2=7-8s; 3=9-10s; 4=11-12s; 5=13-14s, 6=15-18s short, 7=15-18s long -->
+
+<script type="text/javascript">
+
+var boyfreename=new Array();
+var boyfreetime=new Array();
+var boyfreeyear=new Array();
+var boyfreeteam=new Array();
+
+var boybreastname=new Array();
+var boybreasttime=new Array();
+var boybreastyear=new Array();
+var boybreastteam=new Array();
+
+var boybackname=new Array();
+var boybacktime=new Array();
+var boybackyear=new Array();
+var boybackteam=new Array();
+
+var boyflyname=new Array();
+var boyflytime=new Array();
+var boyflyyear=new Array();
+var boyflyteam=new Array();
+
+var boyIMname=new Array();
+var boyIMtime=new Array();
+var boyIMyear=new Array();
+var boyIMteam=new Array();
+
+var boyMRnameone=new Array();
+var boyMRnametwo=new Array();
+var boyMRnamethree=new Array();
+var boyMRnamefour=new Array();
+var boyMRtime=new Array();
+var boyMRyear=new Array();
+var boyMRteam=new Array();
+
+var boyFRnameone=new Array();
+var boyFRnametwo=new Array();
+var boyFRnamethree=new Array();
+var boyFRnamefour=new Array();
+var boyFRtime=new Array();
+var boyFRyear=new Array();
+var boyFRteam=new Array();
+
+for (i=1;i<=14;i++)
+{
+ boyfreename[i]="";
+ boyfreetime[i]="";
+ boyfreeyear[i]="";
+ boyfreeteam[i]="";
+
+ boybreastname[i]="";
+ boybreasttime[i]="";
+ boybreastyear[i]="";
+ boybreastteam[i]="";
+
+ boybackname[i]="";
+ boybacktime[i]="";
+ boybackyear[i]="";
+ boybackteam[i]="";
+
+ boyflyname[i]="";
+ boyflytime[i]="";
+ boyflyyear[i]="";
+ boyflyteam[i]="";
+
+ boyIMname[i]="";
+ boyIMtime[i]="";
+ boyIMyear[i]="";
+ boyIMteam[i]="";
+
+ boyMRnameone[i]="";
+ boyMRnametwo[i]="";
+ boyMRnamethree[i]="";
+ boyMRnamefour[i]="";
+ boyMRtime[i]="";
+ boyMRyear[i]="";
+ boyMRteam[i]="";
+
+ boyFRnameone[i]="";
+ boyFRnametwo[i]="";
+ boyFRnamethree[i]="";
+ boyFRnamefour[i]="";
+ boyFRtime[i]="";
+ boyFRyear[i]="";
+ boyFRteam[i]="";
+}
+
+//BOYS FREE
+
+//6&U
+	boyfreename[1]="Brad Allen";
+ 	boyfreetime[1]="16.55";
+ 	boyfreeyear[1]="1989";
+ 	boyfreeteam[1]="PARK";
+//7-8
+	boyfreename[2]="Gabe Ostler";
+	boyfreetime[2]="13.96";
+	boyfreeyear[2]="2004";
+	boyfreeteam[2]="PARK";
+//9-10s		
+	boyfreename[3]="Andrew Stoddard";
+	boyfreetime[3]="27.87";
+	boyfreeyear[3]="1990";
+	boyfreeteam[3]="PARK";
+//11-12s
+
+	
+	boyfreename[4]="Nick Gaspardone";
+	boyfreetime[4]="24.99";
+	boyfreeyear[4]="2013";
+	boyfreeteam[4]="PARK";
+		
+	//boyfreename[4]="Andrew Stoddard";
+	//boyfreetime[4]="25.02";
+	//boyfreeyear[4]="1992";
+	//boyfreeteam[4]="PARK";
+//13-14s		
+	boyfreename[5]="Andrew Stoddard";
+	boyfreetime[5]="22.81";
+	boyfreeyear[5]="1994";
+	boyfreeteam[5]="PARK";
+//15-18s	50y
+	//boyfreename[6]="Dave Born";
+	//boyfreetime[6]="21.59";
+	//boyfreeyear[6]="2002";
+	//boyfreeteam[6]="PARK";
+
+boyfreename[6]="Robbie Fluegge";
+	boyfreetime[6]="21.39";
+	boyfreeyear[6]="2013";
+	boyfreeteam[6]="PARK";
+//15-18s 100y
+	boyfreename[7]="Rob Anderson";
+	boyfreetime[7]="48.25";
+	boyfreeyear[7]="2006";
+	boyfreeteam[7]="PARK";
+
+//BOYS BREAST
+
+
+//6&U
+	boybreastname[1]="Paul Sandell";
+	boybreasttime[1]="22.70";
+	boybreastyear[1]="1972";
+	boybreastteam[1]="PARK";
+//7-8
+	boybreastname[2]="David Black";
+	boybreasttime[2]="18.84";
+	boybreastyear[2]="1990";
+	boybreastteam[2]="PARK";
+//9-10s		
+	boybreastname[3]="Mike Gherini";
+	boybreasttime[3]="36.30";
+	boybreastyear[3]="1999";
+	boybreastteam[3]="PARK";
+//11-12s		 
+	boybreastname[4]="Chris Rynders";
+	boybreasttime[4]="32.75";
+	boybreastyear[4]="1995";
+	boybreastteam[4]="PARK";
+//13-14s		
+	boybreastname[5]="Sam Brasch";
+	boybreasttime[5]="29.21";
+	boybreastyear[5]="2002";
+	boybreastteam[5]="PARK";
+//15-18s		
+	//boybreastname[6]="Sam Brasch";
+	//boybreasttime[6]="27.40";
+	//boybreastyear[6]="2005";
+	//boybreastteam[6]="PARK";
+
+        boybreastname[6]="Zach Taapken";
+	boybreasttime[6]="27.27";
+	boybreastyear[6]="2011";
+	boybreastteam[6]="PARK";
+//15-18s		
+	//boybreastname[7]="David Black";
+	//boybreasttime[7]="1:01.63";
+	//boybreastyear[7]="1999";
+	//boybreastteam[7]="PARK";
+
+        boybreastname[7]="Zach Taapken";
+	boybreasttime[7]="1:00.53";
+	boybreastyear[7]="2011";
+	boybreastteam[7]="PARK";
+
+//BOYS BACK
+
+//6&U
+	boybackname[1]="Robbie Anderson";
+	boybacktime[1]="20.16";
+	boybackyear[1]="1994";
+	boybackteam[1]="PARK";
+//7-8
+	boybackname[2]="Gabe Ostler";
+	boybacktime[2]="16.66";
+	boybackyear[2]="2004";
+	boybackteam[2]="PARK";
+//9-10s		
+	boybackname[3]="Ted Adams";
+	boybacktime[3]="33.48";
+	boybackyear[3]="2006";
+	boybackteam[3]="PARK";
+//11-12s		 
+	boybackname[4]="Robbie Fluegge";
+	boybacktime[4]="27.95";
+	boybackyear[4]="2007";
+	boybackteam[4]="PARK";
+//13-14s		
+	//boybackname[5]="Greg Allen";
+	//boybacktime[5]="27.04";
+	//boybackyear[5]="2002";
+	//boybackteam[5]="PARK";
+	
+	boybackname[5]="Robbie Fluegge";
+	boybacktime[5]="26.26";
+	boybackyear[5]="2009";
+	boybackteam[5]="PARK";
+//15-18s		
+	//boybackname[6]="Rob Anderson";
+	//boybacktime[6]="25.32";
+	//boybackyear[6]="2006";
+	//boybackteam[6]="PARK";
+
+//boybackname[6]="Robbie Fluegge";
+	//boybacktime[6]="25.03";
+	//boybackyear[6]="2012";
+	//boybackteam[6]="PARK";
+
+boybackname[6]="Robbie Fluegge";
+	boybacktime[6]="24.43";
+	boybackyear[6]="2013";
+	boybackteam[6]="PARK";
+//15-18s		
+	boybackname[7]="Rob Anderson";
+	boybacktime[7]="54.71";
+	boybackyear[7]="2006";
+	boybackteam[7]="PARK";
+
+//BOYS FLY
+
+//6&U
+	boyflyname[1]="Tony Balestrieri";
+	boyflytime[1]="17.86";
+	boyflyyear[1]="1992";
+	boyflyteam[1]="PARK";
+//7-8
+	boyflyname[2]="Trevor Rose";
+	boyflytime[2]="15.15";
+	boyflyyear[2]="1992";
+	boyflyteam[2]="PARK";
+//9-10s		
+	boyflyname[3]="Andrew Stoddard";
+	boyflytime[3]="31.37";
+	boyflyyear[3]="1990";
+	boyflyteam[3]="PARK";
+//11-12s		 
+	boyflyname[4]="Jon Boone";
+	boyflytime[4]="27.50";
+	boyflyyear[4]="1976";
+	boyflyteam[4]="PARK";
+//13-14s		
+	boyflyname[5]="Jon Boone";
+	boyflytime[5]="24.90";
+	boyflyyear[5]="1978";
+	boyflyteam[5]="PARK";
+//15-18s		
+	boyflyname[6]="Matt Murphy";
+	boyflytime[6]="23.65";
+	boyflyyear[6]="1984";
+	boyflyteam[6]="PARK";
+//15-18s		
+	boyflyname[7]="Jon Boone";
+	boyflytime[7]="54:10";
+	boyflyyear[7]="1981";
+	boyflyteam[7]="PARK";
+
+//BOYS IM
+
+//6&U
+	boyIMname[1]="Robbie Anderson";
+	boyIMtime[1]="1:46.52";
+	boyIMyear[1]="1994";
+	boyIMteam[1]="PARK";
+//7-8
+	boyIMname[2]="Joe Born";
+	boyIMtime[2]="1:22.37";
+	boyIMyear[2]="1990";
+	boyIMteam[2]="PARK";
+//9-10s		
+	boyIMname[3]="Andrew Stoddard";
+	boyIMtime[3]="1:12.19";
+	boyIMyear[3]="1990";
+	boyIMteam[3]="PARK";
+//6&U
+//11-12s		 
+	boyIMname[4]="Robbie Fluegge";
+	boyIMtime[4]="1:04.06";
+	boyIMyear[4]="2007";
+	boyIMteam[4]="PARK";
+//13-14s		
+	boyIMname[5]="Trevor Rose";
+	boyIMtime[5]="58:10";
+	boyIMyear[5]="1998";
+	boyIMteam[5]="PARK";
+//15-18s		
+	boyIMname[6]="";
+	boyIMtime[6]="";
+	boyIMyear[6]="";
+	boyIMteam[6]="";
+//15-18s		
+	boyIMname[7]="Trevor Rose";
+	boyIMtime[7]="55:27";
+	boyIMyear[7]="2002";
+	boyIMteam[7]="PARK";
+
+//BOYS MR
+
+
+//6&U
+	boyMRnameone[1]="Anderson";
+	boyMRnametwo[1]="Balestrieri";
+	boyMRnamethree[1]="Brasch";
+ 	boyMRnamefour[1]="Allen";
+	boyMRtime[1]="1:23.52";
+	boyMRyear[1]="1994";
+	boyMRteam[1]="PARK";
+//7-8
+	boyMRnameone[2]="Anderson";
+	boyMRnametwo[2]="Balestrieri";
+ 	boyMRnamethree[2]="Brasch";
+	boyMRnamefour[2]="Allen";
+	boyMRtime[2]="1:08.80";
+	boyMRyear[2]="1996";
+	boyMRteam[2]="PARK";
+//9-10s		
+	boyMRnameone[3]="Adams";
+	boyMRnametwo[3]="Furtado";
+ 	boyMRnamethree[3]="Wentzel";
+ 	boyMRnamefour[3]="Whitsitt";
+	boyMRtime[3]="2:15:18";
+	boyMRyear[3]="2006";
+	boyMRteam[3]="PARK";
+//11-12s		 
+	boyMRnameone[4]="Adams";
+	boyMRnametwo[4]="Furtado";
+ 	boyMRnamethree[4]="Tomasik";
+ 	boyMRnamefour[4]="Wentzel";
+	boyMRtime[4]="2:00.80";
+	boyMRyear[4]="2008";
+	boyMRteam[4]="PARK";
+//13-14s		
+	boyMRnameone[5]="Allen";
+	boyMRnametwo[5]="Brasch";
+ 	boyMRnamethree[5]="Anderson";
+ 	boyMRnamefour[5]="Gherini";
+	boyMRtime[5]="1:50.34";
+	boyMRyear[5]="2002";
+	boyMRteam[5]="PARK";
+//15-18s		
+	boyMRnameone[6]="Anderson";
+	boyMRnametwo[6]="Brasch";
+ 	boyMRnamethree[6]="Schultz";
+ 	boyMRnamefour[6]="Railsback";
+	boyMRtime[6]="1:38.14";
+	boyMRyear[6]="2005";
+	boyMRteam[6]="PARK";
+//15-18s		
+	boyMRnameone[7]="";
+	boyMRnametwo[7]="";
+ 	boyMRnamethree[7]="";
+ 	boyMRnamefour[7]="";
+	boyMRtime[7]="";
+	boyMRyear[7]="";
+	boyMRteam[7]="";
+
+//BOYS FR
+
+//6&U
+	boyFRnameone[1]="Anderson";
+	boyFRnametwo[1]="Brasch";
+ 	boyFRnamethree[1]="Balestrieri";
+ 	boyFRnamefour[1]="Allen";
+	boyFRtime[1]="1:10.24";
+	boyFRyear[1]="1994";
+	boyFRteam[1]="PARK";
+//7-8
+	boyFRnameone[2]="Ostler";
+	boyFRnametwo[2]="Wentzel";
+ 	boyFRnamethree[2]="Furtado";
+ 	boyFRnamefour[2]="Adams";
+	boyFRtime[2]="59.47";
+	boyFRyear[2]="2004";
+	boyFRteam[2]="PARK";
+//9-10s		
+	boyFRnameone[3]="Govan";
+	boyFRnametwo[3]="Noonan";
+ 	boyFRnamethree[3]="Meyers";
+ 	boyFRnamefour[3]="Devenish";
+	boyFRtime[3]="1:58.47";
+	boyFRyear[3]="1985";
+	boyFRteam[3]="PARK";
+//11-12s		 
+	boyFRnameone[4]="Adams";
+	boyFRnametwo[4]="Furtado";
+ 	boyFRnamethree[4]="Tomasik";
+ 	boyFRnamefour[4]="Wentzel";
+	boyFRtime[4]="1:48.51";
+	boyFRyear[4]="2008";
+	boyFRteam[4]="PARK";
+//13-14s		
+	boyFRnameone[5]="Cook";
+	boyFRnametwo[5]="Sanford";
+ 	boyFRnamethree[5]="Gliebe";
+ 	boyFRnamefour[5]="Bunch";
+	boyFRtime[5]="1:36.94";
+	boyFRyear[5]="1984";
+	boyFRteam[5]="PARK";
+//15-18s		
+	boyFRnameone[6]="Anderson";
+	boyFRnametwo[6]="Schultz";
+ 	boyFRnamethree[6]="Allen";
+ 	boyFRnamefour[6]="Railsback";
+	boyFRtime[6]="1:27.27";
+	boyFRyear[6]="2005";
+	boyFRteam[6]="PARK";
+//15-18s		
+	boyFRnameone[7]="Anderson";
+	boyFRnametwo[7]="Schultz";
+ 	boyFRnamethree[7]="Bluhm";
+ 	boyFRnamefour[7]="Black";
+	boyFRtime[7]="3:21.50";
+	boyFRyear[7]="2005";
+	boyFRteam[7]="PARK";
+
+</script>
+
+<table border="1" cellpadding="5" style="font-family:arial;font-size:14px;">
+<tr>
+<th align="center" style="font-family:arial;font-size:18px;" bgcolor="blue">PARK<br>TEAM RECORDS<br>BOYS</th>
+<th align="center">6&Under</th>
+<th align="center">7-8</th>
+<th align="center">9-10</th>
+<th align="center">11-12</th>
+<th align="center">13-14</th>
+<th align="center">15-18 <br>(50yd)</th>
+<th align="center">15-18 <br>(100yd)</th>
+</tr>
+
+<!-- freestyle row-->
+
+<tr>
+<th align="center">Freestyle</th>
+
+<script type="text/javascript">
+for (i=1;i<=7;i++)
+{
+if (boyfreename[i+7]=="")//checks to be sure no tie
+{
+document.write("<td align=\"center\">"+ boyfreename[i]+"<br><b>"+boyfreetime[i]+"</b><br>"+boyfreeyear[i]+"<br>"+"</td>");
+}
+else
+{
+document.write("<td align=\"center\">"+ boyfreename[i]+"<br>"+boyfreeyear[i]+"<br><b>"+boyfreetime[i]+"</b><br>"+ boyfreename[i+7]+"<br>"+boyfreeyear[i+7]+"<br></td>");
+}
+}
+</script>
+</tr>
+
+<!-- Breaststroke Row -->
+
+<tr>
+<th align="center">Breaststroke</th>
+<script type="text/javascript">
+for (i=1;i<=7;i++)
+{
+if (boybreastname[i+7]=="")
+{
+document.write("<td align=\"center\">"+ boybreastname[i]+"<br><b>"+boybreasttime[i]+"</b><br>"+boybreastyear[i]+"<br>"+"</td>");
+}
+else
+{
+document.write("<td align=\"center\">"+ boybreastname[i]+"<br>"+boybreastyear[i]+"<br><b>"+boybreasttime[i]+"</b><br>"+boybreastname[i+7]+"<br>"+boybreastyear[i+7]+"<br></td>");
+}
+}
+</script>
+</tr>
+
+
+<!-- Backstroke Row -->
+
+<tr>
+<th align="center">Backstroke</th>
+<script type="text/javascript">
+for (i=1;i<=7;i++)
+{
+if (boybackname[i+7]=="")
+{
+document.write("<td align=\"center\">"+ boybackname[i]+"<br><b>"+boybacktime[i]+"</b><br>"+boybackyear[i]+"<br>"+"</td>");
+}
+else
+{
+document.write("<td align=\"center\">"+ boybackname[i]+"<br>"+boybackyear[i]+"<br><b>"+boybacktime[i]+"</b><br>"+ boybackname[i+7]+"<br>"+boybackyear[i+7]+"<br></td>");
+}
+}
+</script>
+</tr>
+
+
+<!-- Butterfly Row -->
+
+<tr>
+<th align="center">Butterfly</th>
+<script type="text/javascript">
+for (i=1;i<=7;i++)
+{
+if (boyflyname[i+7]=="")
+{
+document.write("<td align=\"center\">"+ boyflyname[i]+"<br><b>"+boyflytime[i]+"</b><br>"+boyflyyear[i]+"<br>"+"</td>");
+}
+else
+{
+document.write("<td align=\"center\">"+ boyflyname[i]+"<br>"+boyflyyear[i]+"<br><b>"+boyflytime[i]+"</b><br>"+ boyflyname[i+7]+"<br>"+boyflyyear[i+7]+"<br></td>");
+}
+}
+</script>
+</tr>
+
+
+<tr>
+<th align="center">Individual Medley</th>
+<script type="text/javascript">
+for (i=1;i<=7;i++)
+{
+if (boyIMname[i+7]=="")
+{
+document.write("<td align=\"center\">"+ boyIMname[i]+"<br><b>"+boyIMtime[i]+"</b><br>"+boyIMyear[i]+"<br>"+"</td>");
+}
+else
+{
+document.write("<td align=\"center\">"+ boyIMname[i]+"<br>"+boyIMyear[i]+"<br><b>"+boyIMtime[i]+"</b><br>"+ boyIMname[i+7]+"<br>"+boyIMyear[i+7]+"<br></td>");
+}
+}
+</script>
+</tr>
+
+
+<!-- NOW the relays -->
+
+<!-- Medley Relay -->
+
+<tr>
+<th align="center">Medley Relay</th>
+<script type="text/javascript">
+for (i=1;i<=7;i++)
+{
+if (boyMRnametwo[i]=="")
+{
+document.write("<td align=\"center\">"+ boyMRnameone[i] +"<br><b>"+boyMRtime[i]+"</b><br>"+boyMRyear[i]+"<br>"+"</td>");
+}
+else
+{
+document.write("<td align=\"center\">"+ boyMRnameone[i] +",<br>"+ boyMRnametwo[i] +",<br>"+ boyMRnamethree[i] +",<br>"+ boyMRnamefour[i] +"<br><b>"+boyMRtime[i]+"</b><br>"+boyMRyear[i]+"<br>"+"</td>");
+}
+}
+</script>
+</tr>
+
+<!-- Free Relay -->
+
+<tr>
+<th align="center">Free Relay</th>
+<script type="text/javascript">
+for (i=1;i<=7;i++)
+{
+if (boyFRnametwo[i]=="")
+{
+document.write("<td align=\"center\">"+ boyFRnameone[i] +"<br><b>"+boyFRtime[i]+"</b><br>"+boyFRyear[i]+"<br>"+"</td>");
+}
+else
+{
+document.write("<td align=\"center\">"+ boyFRnameone[i] +",<br>"+ boyFRnametwo[i] +",<br>"+ boyFRnamethree[i] +",<br>"+ boyFRnamefour[i] +"<br><b>"+boyFRtime[i]+"</b><br>"+boyFRyear[i]+"<br>"+"</td>");
+}
+}
+</script>
+</tr>
+
+
+
+</table></body>
