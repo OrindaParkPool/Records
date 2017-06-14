@@ -1,0 +1,775 @@
+<html>
+<body>
+
+<!--
+ORINDA PARK POOL TEAM RECORDS GIRLS
+the records are entered as javascript arrays
+
+1=6&unders; 2=7-8s; 3=9-10s; 4=11-12s; 5=13-14s, 6=15-18s short, 7=15-18s long -->
+
+<script type="text/javascript">
+
+
+var girlfreename=new Array();
+var girlfreetime=new Array();
+var girlfreeyear=new Array();
+var girlfreeteam=new Array();
+
+var girlbreastname=new Array();
+var girlbreasttime=new Array();
+var girlbreastyear=new Array();
+var girlbreastteam=new Array();
+
+var girlbackname=new Array();
+var girlbacktime=new Array();
+var girlbackyear=new Array();
+var girlbackteam=new Array();
+
+var girlflyname=new Array();
+var girlflytime=new Array();
+var girlflyyear=new Array();
+var girlflyteam=new Array();
+
+var girlIMname=new Array();
+var girlIMtime=new Array();
+var girlIMyear=new Array();
+var girlIMteam=new Array();
+
+var girlMRnameone=new Array();
+var girlMRnametwo=new Array();
+var girlMRnamethree=new Array();
+var girlMRnamefour=new Array();
+var girlMRtime=new Array();
+var girlMRyear=new Array();
+var girlMRteam=new Array();
+
+var girlFRnameone=new Array();
+var girlFRnametwo=new Array();
+var girlFRnamethree=new Array();
+var girlFRnamefour=new Array();
+var girlFRtime=new Array();
+var girlFRyear=new Array();
+var girlFRteam=new Array();
+
+for (i=1;i<=14;i++)
+{
+ girlfreename[i]="";
+ girlfreetime[i]="";
+ girlfreeyear[i]="";
+ girlfreeteam[i]="";
+
+ girlbreastname[i]="";
+ girlbreasttime[i]="";
+ girlbreastyear[i]="";
+ girlbreastteam[i]="";
+
+ girlbackname[i]="";
+ girlbacktime[i]="";
+ girlbackyear[i]="";
+ girlbackteam[i]="";
+
+ girlflyname[i]="";
+ girlflytime[i]="";
+ girlflyyear[i]="";
+ girlflyteam[i]="";
+
+ girlIMname[i]="";
+ girlIMtime[i]="";
+ girlIMyear[i]="";
+ girlIMteam[i]="";
+
+ girlMRnameone[i]="";
+ girlMRnametwo[i]="";
+ girlMRnamethree[i]="";
+ girlMRnamefour[i]="";
+ girlMRtime[i]="";
+ girlMRyear[i]="";
+ girlMRteam[i]="";
+
+ girlFRnameone[i]="";
+ girlFRnametwo[i]="";
+ girlFRnamethree[i]="";
+ girlFRnamefour[i]="";
+ girlFRtime[i]="";
+ girlFRyear[i]="";
+ girlFRteam[i]="";
+}
+
+//GIRLS FREE
+
+//6&U
+	girlfreename[1]="Amanda Morando";
+	girlfreetime[1]="17.40";
+	girlfreeyear[1]="1993";
+	girlfreeteam[1]="PARK";
+//7-8
+	girlfreename[2]="Katie Windle";
+	girlfreetime[2]="13.94";
+	girlfreeyear[2]="1988";
+	girlfreeteam[2]="PARK";
+//9-10s		
+	girlfreename[3]="Maya Supran";
+	girlfreetime[3]="28.19";
+	girlfreeyear[3]="2013";
+	girlfreeteam[3]="PARK";
+
+//girlfreename[3]="Katie Windle";
+	//girlfreetime[3]="28.31";
+	//girlfreeyear[3]="1990";
+	//girlfreeteam[3]="PARK";
+//11-12s		
+	//girlfreename[4]="Betsy Gherini";
+	//girlfreetime[4]="26.40";
+	//girlfreeyear[4]="1989";
+	//girlfreeteam[4]="PARK";
+		
+	girlfreename[4]="Natalie Ung";
+	girlfreetime[4]="26.14";
+	girlfreeyear[4]="2015";
+	girlfreeteam[4]="PARK";
+//13-14s		
+	girlfreename[5]="Corrie Allen";
+	girlfreetime[5]="25.11";
+	girlfreeyear[5]="1999";
+	girlfreeteam[5]="PARK";
+//15-18s	50y
+	//girlfreename[6]="Sara Frane";
+	//girlfreetime[6]="25.11";
+	//girlfreeyear[6]="1986";
+	//girlfreeteam[6]="PARK";
+
+
+girlfreename[6]="Madison Tagg";
+	girlfreetime[6]="24.87";
+	girlfreeyear[6]="2014";
+	girlfreeteam[6]="PARK";
+//15-18s 100y
+
+girlfreename[7]="Madison Tagg";
+	girlfreetime[7]="54.80";
+	girlfreeyear[7]="2013";
+	girlfreeteam[7]="PARK";
+
+	//girlfreename[7]="Corrie Allen";
+	//girlfreetime[7]="55.57";
+	//girlfreeyear[7]="2000";
+	//girlfreeteam[7]="PARK";
+
+//GIRLS BREAST
+
+
+//6&U
+	girlbreastname[1]="Isabella Wentzel";
+	girlbreasttime[1]="23.09";
+	girlbreastyear[1]="2007";
+	girlbreastteam[1]="PARK";
+//7-8
+	girlbreastname[2]="Cameryn Korn";
+	girlbreasttime[2]="18.12";
+	girlbreastyear[2]="1995";
+	girlbreastteam[2]="PARK";
+//9-10s		
+	//girlbreastname[3]="Betsy Gherini";
+	//girlbreasttime[3]="35.52";
+	//girlbreastyear[3]="1987";
+	//girlbreastteam[3]="PARK";
+
+        girlbreastname[3]="Natalie Ung";
+	girlbreasttime[3]="35.24";
+	girlbreastyear[3]="2014";
+	girlbreastteam[3]="PARK";
+
+//11-12s		 
+	//girlbreastname[4]="Betsy Gherini";
+	//girlbreasttime[4]="31.82";
+	//girlbreastyear[4]="1989";
+	//girlbreastteam[4]="PARK";
+
+        girlbreastname[4]="Maya Supran";
+	girlbreasttime[4]="31.61";
+	girlbreastyear[4]="2015";
+	girlbreastteam[4]="PARK";
+//13-14s		
+	girlbreastname[5]="Betsy Gherini";
+	girlbreasttime[5]="31.05";
+	girlbreastyear[5]="1990";
+	girlbreastteam[5]="PARK";
+//15-18s		
+	//girlbreastname[6]="Kathy Beckett";
+	//girlbreasttime[6]="31.99";
+	//girlbreastyear[6]="1983";
+	//girlbreastteam[6]="PARK";
+
+
+girlbreastname[6]="Madison Tagg";
+	girlbreasttime[6]="31.48";
+	girlbreastyear[6]="2014";
+	girlbreastteam[6]="PARK";
+//15-18s		
+	girlbreastname[7]="Kathy Beckett";
+	girlbreasttime[7]="1:10.34";
+	girlbreastyear[7]="1983";
+	girlbreastteam[7]="PARK";
+
+//GIRLS BACK
+
+//6&U
+	girlbackname[1]="Cameryn Korn";
+	girlbacktime[1]="21.77";
+	girlbackyear[1]="1993";
+	girlbackteam[1]="PARK";
+//7-8
+	girlbackname[2]="Katie Windle";
+	girlbacktime[2]="17.26";
+	girlbackyear[2]="1988";
+	girlbackteam[2]="PARK";
+//9-10s		
+	girlbackname[3]="Laura Alonso";
+	girlbacktime[3]="33.24";
+	girlbackyear[3]="1982";
+	girlbackteam[3]="PARK";
+//11-12s		 
+	//girlbackname[4]="Natalie Ung";
+	//girlbacktime[4]="29.76";
+	//girlbackyear[4]="2015";
+	//girlbackteam[4]="PARK";
+
+        girlbackname[4]="Natalie Ung";
+	girlbacktime[4]="29.24";
+	girlbackyear[4]="2015";
+	girlbackteam[4]="PARK";
+	
+	//girlbackname[3]="Laura Alonso";
+	//girlbacktime[3]="30.24";
+	//girlbackyear[3]="1984";
+	//girlbackteam[3]="PARK";
+
+//13-14s		
+	//girlbackname[5]="Laura Alonso";
+	//girlbacktime[5]="28.89";
+	//girlbackyear[5]="1985";
+	//girlbackteam[5]="PARK";
+
+        girlbackname[5]="Madeline Smith";
+	girlbacktime[5]="28.20";
+	girlbackyear[5]="2015";
+	girlbackteam[5]="PARK";
+//15-18s		
+	//girlbackname[6]="Gina Vittori";
+	//girlbacktime[6]="28.70";
+	//girlbackyear[6]="1993";
+	//girlbackteam[6]="PARK";
+
+        girlbackname[6]="Emily Byrne";
+	girlbacktime[6]="27.63";
+	girlbackyear[6]="2015";
+	girlbackteam[6]="PARK";
+//15-18s		
+	girlbackname[7]="Sue Brinkerhoff";
+	girlbacktime[7]="1:02.71";
+	girlbackyear[7]="1993";
+	girlbackteam[7]="PARK";
+
+//GIRLS FLY
+
+//6&U
+	girlflyname[1]="Becky Penskar";
+	girlflytime[1]="18.34";
+	girlflyyear[1]="1996";
+	girlflyteam[1]="PARK";
+//7-8
+	girlflyname[2]="Katie Windle";
+	girlflytime[2]="15.04";
+	girlflyyear[2]="1988";
+	girlflyteam[2]="PARK";
+//9-10s	
+
+//girlflyname[3]="Maya Supran";
+	//girlflytime[3]="30.63";
+	//girlflyyear[3]="2013";
+	//girlflyteam[3]="PARK";	
+
+        girlflyname[3]="Natalie Ung";
+	girlflytime[3]="30.41";
+	girlflyyear[3]="2014";
+	girlflyteam[3]="PARK";	
+	
+//girlflyname[3]="Katie Windle";
+	//girlflytime[3]="31.04";
+	//girlflyyear[3]="1990";
+	//girlflyteam[3]="PARK";
+//11-12s		 
+	//girlflyname[4]="Betsy Gherini";
+	//girlflytime[4]="28.60";
+	//girlflyyear[4]="1989";
+	//girlflyteam[4]="PARK";
+
+        girlflyname[4]="Maya Supran";
+	girlflytime[4]="26.92";
+	girlflyyear[4]="2015";
+	girlflyteam[4]="PARK";
+
+//13-14s
+        //girlflyname[5]="Madeline Smith";
+	//girlflytime[5]="27.26";
+	//girlflyyear[5]="2015";
+	//girlflyteam[5]="PARK";
+
+        girlflyname[5]="Madeline Smith";
+	girlflytime[5]="26.77";
+	girlflyyear[5]="2015";
+	girlflyteam[5]="PARK";
+		
+	//girlflyname[5]="Betsy Gherini";
+	//girlflytime[5]="27.77";
+	//girlflyyear[5]="1990";
+	//girlflyteam[5]="PARK";
+//15-18s		
+	//girlflyname[6]="Finola Murphy";
+	//girlflytime[6]="27.25";
+	//girlflyyear[6]="1983";
+	//girlflyteam[6]="PARK";
+
+        girlflyname[6]="Emily Byrne";
+	girlflytime[6]="26.90";
+	girlflyyear[6]="2015";
+	girlflyteam[6]="PARK";
+//15-18s		
+	girlflyname[7]="Finola Murphy";
+	girlflytime[7]="1:01.51";
+	girlflyyear[7]="1983";
+	girlflyteam[7]="PARK";
+
+//GIRLS IM
+
+//6&U
+	girlIMname[1]="Mijo Brinkerhoff";
+	girlIMtime[1]="1:42.81";
+	girlIMyear[1]="1982";
+	girlIMteam[1]="PARK";
+//7-8
+	//girlIMname[2]="Mijo Brinkerhoff";
+	//girlIMtime[2]="1:23.08";
+	//girlIMyear[2]="1984";
+	//girlIMteam[2]="PARK";
+
+        girlIMname[2]="Maya Supran";
+	girlIMtime[2]="1:22.83";
+	girlIMyear[2]="2011";
+	girlIMteam[2]="PARK";
+//9-10s		
+
+girlIMname[3]="Natalie Ung";
+	girlIMtime[3]="1:09.54";
+	girlIMyear[3]="2014";
+	girlIMteam[3]="PARK";
+
+//girlIMname[3]="Maya Supran";
+	//girlIMtime[3]="1:11.19";
+	//girlIMyear[3]="2013";
+	//girlIMteam[3]="PARK";
+
+
+
+	//girlIMname[3]="Betsy Gherini";
+	//girlIMtime[3]="1:12.19";
+	//girlIMyear[3]="1987";
+	//girlIMteam[3]="PARK";
+
+//11-12s		 
+	//girlIMname[4]="Betsy Gherini";
+	//girlIMtime[4]="1:04.20";
+	//girlIMyear[4]="1989";
+	//girlIMteam[4]="PARK";
+
+	girlIMname[4]="Maya Supran";
+	girlIMtime[4]="1:03.48";
+	girlIMyear[4]="2015";
+	girlIMteam[4]="PARK";
+
+//13-14s		
+	girlIMname[5]="Betsy Gherini";
+	girlIMtime[5]="1:02.23";
+	girlIMyear[5]="1990";
+	girlIMteam[5]="PARK";
+//15-18s		
+	girlIMname[6]="";
+	girlIMtime[6]="";
+	girlIMyear[6]="";
+	girlIMteam[6]="";
+//15-18s		
+	girlIMname[7]="Kathy Beckett";
+	girlIMtime[7]="1:03.37";
+	girlIMyear[7]="1983";
+	girlIMteam[7]="PARK";
+
+girlIMname[7]="Madison Tagg";
+	girlIMtime[7]="1:01.45";
+	girlIMyear[7]="2014";
+	girlIMteam[7]="PARK";
+
+//GIRLS MR
+
+
+//6&U
+	girlMRnameone[1]="Morando";
+	girlMRnametwo[1]="Korn";
+	girlMRnamethree[1]="Ralph";
+ 	girlMRnamefour[1]="P-Martinez";
+	girlMRtime[1]="1:26.14";
+	girlMRyear[1]="1993";
+	girlMRteam[1]="PARK";
+//7-8
+	//girlMRnameone[2]="Korn";
+	//girlMRnametwo[2]="Ellis";
+ 	//girlMRnamethree[2]="P-Martinez";
+	//girlMRnamefour[2]="Morando";
+	//girlMRtime[2]="1:10.63";
+	//girlMRyear[2]="1995";
+	//girlMRteam[2]="PARK";
+
+girlMRnameone[2]="G.Tomasik";
+	girlMRnametwo[2]="A.Gaspardone";
+ 	girlMRnamethree[2]="E.Appl";
+	girlMRnamefour[2]="M.Supran";
+	girlMRtime[2]="1:08.31";
+	girlMRyear[2]="2011";
+	girlMRteam[2]="PARK";
+//9-10s		
+	//girlMRnameone[3]="Goodreault";
+	//girlMRnametwo[3]="Funai";
+ 	//girlMRnamethree[3]="Schoenfeld";
+ 	//girlMRnamefour[3]="Tong";
+	//girlMRtime[3]="2:20.22";
+	//girlMRyear[3]="2006";
+	//girlMRteam[3]="PARK";
+
+//girlMRnameone[3]= "N.Ung";
+    //girlMRnametwo[3] = "A.Gaspardone";
+    //girlMRnamethree[3] ="M.Supran";
+    //girlMRnamefour[3] =  "G.Tomasik";
+    //girlMRtime[3] = "2:19.21";
+    //girlMRyear[3] = "2013";
+   // girlMRteam[3]= "PARK";
+
+girlMRnameone[3]= "N.Ung";
+    girlMRnametwo[3] = "A.Gaspardone";
+    girlMRnamethree[3] ="M.Supran";
+    girlMRnamefour[3] =  "G.Tomasik";
+    girlMRtime[3] = "2:15.99";
+    girlMRyear[3] = "2013";
+    girlMRteam[3]= "PARK";
+
+
+
+
+//11-12s		 
+	//girlMRnameone[4]="M.Goodreault";
+	//girlMRnametwo[4]="E.Schoenfeld";
+ 	//girlMRnamethree[4]="M.Taapken";
+ 	//girlMRnamefour[4]="A.Tong";
+	//girlMRtime[4]="2:02.92";
+	//girlMRyear[4]="2008";
+	//girlMRteam[4]="PARK";
+
+        girlMRnameone[4]="N.Ung";
+	girlMRnametwo[4]="M.Supran";
+ 	girlMRnamethree[4]="F.Young";
+ 	girlMRnamefour[4]="A.Gaspardone";
+	girlMRtime[4]="2:01.39";
+	girlMRyear[4]="2015";
+	girlMRteam[4]="PARK";
+
+//13-14s		
+	//girlMRnameone[5]="Vittori";
+	//girlMRnametwo[5]="Brinkerhoff";
+ 	//girlMRnamethree[5]="Clevenger";
+ 	//girlMRnamefour[5]="Kenney";
+	//girlMRtime[5]="1:57.66";
+	//girlMRyear[5]="1992";
+	//girlMRteam[5]="PARK";
+
+        girlMRnameone[5]="M.Smith";
+	girlMRnametwo[5]="A.Mills";
+ 	girlMRnamethree[5]="L.Bretall";
+ 	girlMRnamefour[5]="I.Wentzel";
+	girlMRtime[5]="1:57.09";
+	girlMRyear[5]="2015";
+	girlMRteam[5]="PARK";
+
+
+//15-18s		
+	//girlMRnameone[6]="Brinkerhoff";
+	//girlMRnametwo[6]="Riddervold";
+ 	//girlMRnamethree[6]="Brown";
+ 	//girlMRnamefour[6]="Vittori";
+	//girlMRtime[6]="1:57.26";
+	//girlMRyear[6]="1993";
+	//girlMRteam[6]="PARK";
+
+    //girlMRnameone[6] = "C.Hamilton";
+    //girlMRnametwo[6] = "M.Tagg";
+    //girlMRnamethree[6]= "E.Eppley";
+    //girlMRnamefour[6] = "K.Latimer";
+    //girlMRtime[6]= "1:55.38";
+    //girlMRyear[6] = "2013";
+    //girlMRteam[6] = "PARK";
+
+    girlMRnameone[6] = "E.Byrne";
+    girlMRnametwo[6] = "D.Clark";
+    girlMRnamethree[6]= "N.Jackson";
+    girlMRnamefour[6] = "M.Tagg";
+    girlMRtime[6]= "1:52.53";
+    girlMRyear[6] = "2015";
+    girlMRteam[6] = "PARK";
+
+//15-18s		
+	girlMRnameone[7]="";
+	girlMRnametwo[7]="";
+ 	girlMRnamethree[7]="";
+ 	girlMRnamefour[7]="";
+	girlMRtime[7]="";
+	girlMRyear[7]="";
+	girlMRteam[7]="";
+
+//GIRLS FR
+
+//6&U
+	girlFRnameone[1]="Ellis";
+	girlFRnametwo[1]="Korn";
+ 	girlFRnamethree[1]="Morando";
+ 	girlFRnamefour[1]="P-Martinez";
+	girlFRtime[1]="1:11.40";
+	girlFRyear[1]="1993";
+	girlFRteam[1]="PARK";
+//7-8
+	girlFRnameone[2]="Korn";
+	girlFRnametwo[2]="Ellis";
+ 	girlFRnamethree[2]="P-Martinez";
+ 	girlFRnamefour[2]="Morando";
+	girlFRtime[2]="1:01.66";
+	girlFRyear[2]="1995";
+	girlFRteam[2]="PARK";
+//9-10s		
+	girlFRnameone[3]="Devenish";
+	girlFRnametwo[3]="Magill";
+ 	girlFRnamethree[3]="Windle";
+ 	girlFRnamefour[3]="Woods";
+	girlFRtime[3]="2:01.64";
+	girlFRyear[3]="1993";
+	girlFRteam[3]="PARK";
+//11-12s		 
+	//girlFRnameone[4]="M.Goodreault";
+	//girlFRnametwo[4]="E.Schoenfeld";
+ 	//girlFRnamethree[4]="M.Taapken";
+ 	//girlFRnamefour[4]="A.Tong";
+	//girlFRtime[4]="1:50.67";
+	//girlFRyear[4]="2008";
+	//girlFRteam[4]="PARK";
+
+        girlFRnameone[4]="N.Ung";
+	girlFRnametwo[4]="M.Supran";
+ 	girlFRnamethree[4]="A.Gaspardone";
+ 	girlFRnamefour[4]="C.Coleman";
+	girlFRtime[4]="1:48.96";
+	girlFRyear[4]="2015";
+	girlFRteam[4]="PARK";
+
+//13-14s		
+	girlFRnameone[5]="Frane";
+	girlFRnametwo[5]="Floyd";
+ 	girlFRnamethree[5]="Prior";
+ 	girlFRnamefour[5]="Alonso";
+	girlFRtime[5]="1:45.93";
+	girlFRyear[5]="1985";
+	girlFRteam[5]="PARK";
+//15-18s		
+	//girlFRnameone[6]="Schoenrock";
+	//girlFRnametwo[6]="Liu";
+ 	//girlFRnamethree[6]="Mikkelson";
+ 	//girlFRnamefour[6]="Bailey";
+	//girlFRtime[6]="1:43.23";
+	//girlFRyear[6]="1990";
+	//girlFRteam[6]="PARK";
+
+        girlFRnameone[6]="E.Byrne";
+	girlFRnametwo[6]="D.Clark";
+ 	girlFRnamethree[6]="N.Jackson";
+ 	girlFRnamefour[6]="M.Tagg";
+	girlFRtime[6]="1:41.21";
+	girlFRyear[6]="2015";
+	girlFRteam[6]="PARK";
+
+
+//15-18s
+       girlFRnameone[7]="D.Clark";
+	girlFRnametwo[7]="E.Eppley";
+	girlFRnamethree[7]="C.Hamilton";
+	girlFRnamefour[7]="M.Tagg";
+	girlFRtime[7]="3:53.22";
+	girlFRyear[7]="2013";
+	girlFRteam[7]="PARK";
+		
+	//girlFRnameone[7]="Schultz";
+	//girlFRnametwo[7]="Selvin";
+ 	//girlFRnamethree[7]="Marker";
+ 	//girlFRnamefour[7]="Ralph";
+	//girlFRtime[7]="4:02.60";
+	//girlFRyear[7]="2005";
+	//girlFRteam[7]="PARK";
+
+</script>
+
+<table border="1" cellpadding="5" style="font-family:arial;font-size:14px;">
+<tr>
+<th align="center" style="font-family:arial;font-size:18px;" bgcolor="blue">PARK<br>TEAM RECORDS<br>GIRLS</th>
+<th align="center">6&Under</th>
+<th align="center">7-8</th>
+<th align="center">9-10</th>
+<th align="center">11-12</th>
+<th align="center">13-14</th>
+<th align="center">15-18 <br>(50yd)</th>
+<th align="center">15-18 <br>(100yd)</th>
+</tr>
+
+<!-- freestyle row-->
+
+<tr>
+<th align="center">Freestyle</th>
+
+<script type="text/javascript">
+for (i=1;i<=7;i++)
+{
+if (girlfreename[i+7]=="")//checks to be sure no tie
+{
+document.write("<td align=\"center\">"+ girlfreename[i]+"<br><b>"+girlfreetime[i]+"</b><br>"+girlfreeyear[i]+"<br>"+"</td>");
+}
+else
+{
+document.write("<td align=\"center\">"+ girlfreename[i]+"<br>"+girlfreeyear[i]+"<br><b>"+girlfreetime[i]+"</b><br>"+ girlfreename[i+7]+"<br>"+girlfreeyear[i+7]+"<br></td>");
+}
+}
+</script>
+</tr>
+
+<!-- Breaststroke Row -->
+
+<tr>
+<th align="center">Breaststroke</th>
+<script type="text/javascript">
+for (i=1;i<=7;i++)
+{
+if (girlbreastname[i+7]=="")
+{
+document.write("<td align=\"center\">"+ girlbreastname[i]+"<br><b>"+girlbreasttime[i]+"</b><br>"+girlbreastyear[i]+"<br>"+"</td>");
+}
+else
+{
+document.write("<td align=\"center\">"+ girlbreastname[i]+"<br>"+girlbreastyear[i]+"<br><b>"+girlbreasttime[i]+"</b><br>"+girlbreastname[i+7]+"<br>"+girlbreastyear[i+7]+"<br></td>");
+}
+}
+</script>
+</tr>
+
+
+<!-- Backstroke Row -->
+
+<tr>
+<th align="center">Backstroke</th>
+<script type="text/javascript">
+for (i=1;i<=7;i++)
+{
+if (girlbackname[i+7]=="")
+{
+document.write("<td align=\"center\">"+ girlbackname[i]+"<br><b>"+girlbacktime[i]+"</b><br>"+girlbackyear[i]+"<br>"+"</td>");
+}
+else
+{
+document.write("<td align=\"center\">"+ girlbackname[i]+"<br>"+girlbackyear[i]+"<br><b>"+girlbacktime[i]+"</b><br>"+ girlbackname[i+7]+"<br>"+girlbackyear[i+7]+"<br></td>");
+}
+}
+</script>
+</tr>
+
+
+<!-- Butterfly Row -->
+
+<tr>
+<th align="center">Butterfly</th>
+<script type="text/javascript">
+for (i=1;i<=7;i++)
+{
+if (girlflyname[i+7]=="")
+{
+document.write("<td align=\"center\">"+ girlflyname[i]+"<br><b>"+girlflytime[i]+"</b><br>"+girlflyyear[i]+"<br>"+"</td>");
+}
+else
+{
+document.write("<td align=\"center\">"+ girlflyname[i]+"<br>"+girlflyyear[i]+"<br><b>"+girlflytime[i]+"</b><br>"+ girlflyname[i+7]+"<br>"+girlflyyear[i+7]+"<br></td>");
+}
+}
+</script>
+</tr>
+
+
+<tr>
+<th align="center">Individual Medley</th>
+<script type="text/javascript">
+for (i=1;i<=7;i++)
+{
+if (girlIMname[i+7]=="")
+{
+document.write("<td align=\"center\">"+ girlIMname[i]+"<br><b>"+girlIMtime[i]+"</b><br>"+girlIMyear[i]+"<br>"+"</td>");
+}
+else
+{
+document.write("<td align=\"center\">"+ girlIMname[i]+"<br>"+girlIMyear[i]+"<br><b>"+girlIMtime[i]+"</b><br>"+ girlIMname[i+7]+"<br>"+girlIMyear[i+7]+"<br></td>");
+}
+}
+</script>
+</tr>
+
+
+<!-- NOW the relays -->
+
+<!-- Medley Relay -->
+
+<tr>
+<th align="center">Medley Relay</th>
+<script type="text/javascript">
+for (i=1;i<=7;i++)
+{
+if (girlMRnametwo[i]=="")
+{
+document.write("<td align=\"center\">"+ girlMRnameone[i] +"<br><b>"+girlMRtime[i]+"</b><br>"+girlMRyear[i]+"<br>"+"</td>");
+}
+else
+{
+document.write("<td align=\"center\">"+ girlMRnameone[i] +",<br>"+ girlMRnametwo[i] +",<br>"+ girlMRnamethree[i] +",<br>"+ girlMRnamefour[i] +"<br><b>"+girlMRtime[i]+"</b><br>"+girlMRyear[i]+"<br>"+"</td>");
+}
+}
+</script>
+</tr>
+
+<!-- Free Relay -->
+
+<tr>
+<th align="center">Free Relay</th>
+<script type="text/javascript">
+for (i=1;i<=7;i++)
+{
+if (girlFRnametwo[i]=="")
+{
+document.write("<td align=\"center\">"+ girlFRnameone[i] +"<br><b>"+girlFRtime[i]+"</b><br>"+girlFRyear[i]+"<br>"+"</td>");
+}
+else
+{
+document.write("<td align=\"center\">"+ girlFRnameone[i] +",<br>"+ girlFRnametwo[i] +",<br>"+ girlFRnamethree[i] +",<br>"+ girlFRnamefour[i] +"<br><b>"+girlFRtime[i]+"</b><br>"+girlFRyear[i]+"<br>"+"</td>");
+}
+}
+</script>
+</tr>
+
+
+
+</table></body>
