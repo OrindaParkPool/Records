@@ -42,3 +42,10 @@ Swim Event Records Keeping associated with Orinda Park Pool
 
 1. Plaques must be ordered to reflect all records set during the season. Plaque ordering instructions can be found below.
 2. Send an e-mail with final inventory of ribbons and rosettes to (amyspillane@comcast.dot.net) for restocking.
+
+## Plaque Ordering
+1. Target date for placing the season plaque order is August post OMPA
+2. The plaque order is fulfilled by Austin Plastics and Supply Company
+3. Donna is our contact: dausplas@prismnet.dot.com
+4. Once the order is placed the PO should be submitted to the OPP Team Treasurer for payment
+5. A sample order is provided in sample-plaque-order.doc
