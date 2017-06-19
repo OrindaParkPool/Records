@@ -1,5 +1,6 @@
 # Records
 Swim Event Records Keeping associated with Orinda Park Pool
+The official e-mail for record keeping is: opprecords@gmail.dot.com
 
 ### Start of Season (May)
 
