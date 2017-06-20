@@ -274,10 +274,15 @@ boybackname[6]="Robbie Fluegge";
 	boyflyyear[5]="1978";
 	boyflyteam[5]="PARK";
 //15-18s		
-	boyflyname[6]="Matt Murphy";
-	boyflytime[6]="23.65";
-	boyflyyear[6]="1984";
-	boyflyteam[6]="PARK";
+	//boyflyname[6]="Matt Murphy";
+	//boyflytime[6]="23.65";
+	//boyflyyear[6]="1984";
+	//boyflyteam[6]="PARK";
+
+	boyflyname[6]="Spencer Tagg";
+        boyflytime[6]="23.49";
+        boyflyyear[6]="2016";
+        boyflyteam[6]="PARK";
 //15-18s		
 	boyflyname[7]="Jon Boone";
 	boyflytime[7]="54:10";
@@ -359,13 +364,22 @@ boybackname[6]="Robbie Fluegge";
 	boyMRyear[4]="2008";
 	boyMRteam[4]="PARK";
 //13-14s		
-	boyMRnameone[5]="Allen";
-	boyMRnametwo[5]="Brasch";
- 	boyMRnamethree[5]="Anderson";
- 	boyMRnamefour[5]="Gherini";
-	boyMRtime[5]="1:50.34";
-	boyMRyear[5]="2002";
-	boyMRteam[5]="PARK";
+       //boyMRnameone[5]="Allen";
+       //boyMRnametwo[5]="Brasch";
+       //boyMRnamethree[5]="Anderson";
+       //boyMRnamefour[5]="Gherini";
+       //boyMRtime[5]="1:50.34";
+       //boyMRyear[5]="2002";
+       //boyMRteam[5]="PARK";
+
+	boyMRnameone[5]="Ohlson";
+        boyMRnametwo[5]="Brydon";
+        boyMRnamethree[5]="Volmar";
+        boyMRnamefour[5]="Wang";
+        boyMRtime[5]="1:47.54";
+        boyMRyear[5]="2016";
+        boyMRteam[5]="PARK";
+
 //15-18s		
 	boyMRnameone[6]="Anderson";
 	boyMRnametwo[6]="Brasch";

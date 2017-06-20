@@ -138,11 +138,15 @@ for (i=1;i<=14;i++)
 	//girlfreeyear[6]="1986";
 	//girlfreeteam[6]="PARK";
 
+        //girlfreename[6]="Madison Tagg";
+	//girlfreetime[6]="24.87";
+	//girlfreeyear[6]="2014";
+	//girlfreeteam[6]="PARK";
 
-girlfreename[6]="Madison Tagg";
-	girlfreetime[6]="24.87";
-	girlfreeyear[6]="2014";
-	girlfreeteam[6]="PARK";
+        girlfreename[6]="Madison Tagg";
+        girlfreetime[6]="24.58";
+        girlfreeyear[6]="2016";
+        girlfreeteam[6]="PARK";
 //15-18s 100y
 
 girlfreename[7]="Madison Tagg";
@@ -224,10 +228,15 @@ girlbreastname[6]="Madison Tagg";
 	girlbackyear[2]="1988";
 	girlbackteam[2]="PARK";
 //9-10s		
-	girlbackname[3]="Laura Alonso";
-	girlbacktime[3]="33.24";
-	girlbackyear[3]="1982";
+	girlbackname[3]="Adriana Smith";
+	girlbacktime[3]="32.14";
+	girlbackyear[3]="2016";
 	girlbackteam[3]="PARK";
+
+	//girlbackname[3]="Laura Alonso";
+        //girlbacktime[3]="33.24";
+        //girlbackyear[3]="1982";
+        //girlbackteam[3]="PARK";
 //11-12s		 
 	//girlbackname[4]="Natalie Ung";
 	//girlbacktime[4]="29.76";
@@ -330,10 +339,15 @@ girlbreastname[6]="Madison Tagg";
 	//girlflyyear[6]="1983";
 	//girlflyteam[6]="PARK";
 
-        girlflyname[6]="Emily Byrne";
-	girlflytime[6]="26.90";
-	girlflyyear[6]="2015";
-	girlflyteam[6]="PARK";
+        //girlflyname[6]="Emily Byrne";
+	//girlflytime[6]="26.90";
+	//girlflyyear[6]="2015";
+	//girlflyteam[6]="PARK";
+
+	girlflyname[6]="Madison Tagg";
+        girlflytime[6]="26.81";
+        girlflyyear[6]="2016";
+        girlflyteam[6]="PARK";
 //15-18s		
 	girlflyname[7]="Finola Murphy";
 	girlflytime[7]="1:01.51";
