@@ -368,9 +368,14 @@ girlIMname[2]="Emmie Appl";
 	girlIMyear[4]="1989";
 	girlIMteam[4]="PARK";
 //13-14s		
-	girlIMname[5]="Betsy Gherini";
-	girlIMtime[5]="1:04.20";
-	girlIMyear[5]="1990";
+	//girlIMname[5]="Betsy Gherini";
+	//girlIMtime[5]="1:04.20";
+	//girlIMyear[5]="1990";
+	//girlIMteam[5]="PARK";
+	
+	girlIMname[5]="Emmie Appl";
+	girlIMtime[5]="1:03.11";
+	girlIMyear[5]="2017";
 	girlIMteam[5]="PARK";
 //15-18s		
 	//girlIMname[7]="Finola Murphy";
