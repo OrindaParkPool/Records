@@ -20,6 +20,7 @@ Swim Event Records Keeping associated with Orinda Park Pool
 
 3. Website, Meet Manager and Physical Record Board Parity
 * Once Meet Manager and the Team Unify Website (https://www.teamunify.com/TabGeneric.jsp?_tabid_=40242&team=recoppstca) are in-sync, then inspect the physical record board below the cafeteria patio to ensure all new records for last season are represented. If there are record plaques missing, then a see Plauque Order Instructions below for further details.
+* Note: Both Team and Pool records are added to the physical board.
 
 ### Active Season(June+)
 
