@@ -172,6 +172,12 @@ boyfreename[6]="Robbie Fluegge";
 	boybreasttime[5]="29.21";
 	boybreastyear[5]="2002";
 	boybreastteam[5]="PARK";
+//13-14s Tie	 	
+	boybreastname[12]="Aidan Vollmar";
+	boybreasttime[12]="29.21";
+	boybreastyear[12]="2016";
+	boybreastteam[12]="PARK";
+
 //15-18s		
 	//boybreastname[6]="Sam Brasch";
 	//boybreasttime[6]="27.40";
