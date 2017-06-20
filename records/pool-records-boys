@@ -211,8 +211,13 @@ boyfreename[7]="Robbie Fluegge";
 	//boybreastyear[6]="2011";
 	//boybreastteam[6]="PARK";
 
+	//boybreastname[6]="Matt Peterson";
+        //boybreasttime[6]="28.26";
+        //boybreastyear[6]="2017";
+        //boybreastteam[6]="PARK";
+	
 	boybreastname[6]="Matt Peterson";
-        boybreasttime[6]="28.26";
+        boybreasttime[6]="28.15";
         boybreastyear[6]="2017";
         boybreastteam[6]="PARK";
 //15-18s		
