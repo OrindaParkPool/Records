@@ -235,9 +235,14 @@ girlbreastname[7]="Lucy Bretall";
 	//girlbackyear[11]="1990";
 	//girlbackteam[11]="SH";
 
-        girlbackname[4]="Charlotte Wu";
-	girlbacktime[4]="31.42";
-	girlbackyear[4]="2013";
+        //girlbackname[4]="Charlotte Wu";
+	//girlbacktime[4]="31.42";
+	//girlbackyear[4]="2013";
+	//girlbackteam[4]="OCC";
+	
+	girlbackname[4]="Dania Innis";
+	girlbacktime[4]="31.36";
+	girlbackyear[4]="2017";
 	girlbackteam[4]="OCC";
 	
 //13-14s		
@@ -363,10 +368,16 @@ girlIMname[2]="Emmie Appl";
 	girlIMteam[3]="SH";
 //6&U
 //11-12s		 
-	girlIMname[4]="Betsy Gherini";
-	girlIMtime[4]="1:06.59";
-	girlIMyear[4]="1989";
-	girlIMteam[4]="PARK";
+	//girlIMname[4]="Betsy Gherini";
+	//girlIMtime[4]="1:06.59";
+	//girlIMyear[4]="1989";
+	//girlIMteam[4]="PARK";
+	
+	girlIMname[4]="Meghan McAninch";
+	girlIMtime[4]="1:06.09";
+	girlIMyear[4]="2017";
+	girlIMteam[4]="OCC";
+	
 //13-14s		
 	//girlIMname[5]="Betsy Gherini";
 	//girlIMtime[5]="1:04.20";
