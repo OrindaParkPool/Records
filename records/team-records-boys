@@ -97,9 +97,14 @@ for (i=1;i<=14;i++)
 //BOYS FREE
 
 //6&U
-	boyfreename[1]="Brad Allen";
- 	boyfreetime[1]="16.55";
- 	boyfreeyear[1]="1989";
+	//boyfreename[1]="Brad Allen";
+ 	//boyfreetime[1]="16.55";
+ 	//boyfreeyear[1]="1989";
+ 	//boyfreeteam[1]="PARK";
+	
+	boyfreename[1]="Jack Deal";
+ 	boyfreetime[1]="16.51";
+ 	boyfreeyear[1]="2017";
  	boyfreeteam[1]="PARK";
 //7-8
 	boyfreename[2]="Gabe Ostler";
@@ -319,10 +324,16 @@ boybackname[6]="Robbie Fluegge";
 	boyIMyear[4]="2007";
 	boyIMteam[4]="PARK";
 //13-14s		
-	boyIMname[5]="Trevor Rose";
-	boyIMtime[5]="58:10";
-	boyIMyear[5]="1998";
+	//boyIMname[5]="Trevor Rose";
+	//boyIMtime[5]="58:10";
+	//boyIMyear[5]="1998";
+	//boyIMteam[5]="PARK";
+	
+	boyIMname[5]="Aidan Vollmar";
+	boyIMtime[5]="57:97";
+	boyIMyear[5]="2016";
 	boyIMteam[5]="PARK";
+	
 //15-18s		
 	boyIMname[6]="";
 	boyIMtime[6]="";
@@ -379,7 +390,7 @@ boybackname[6]="Robbie Fluegge";
        //boyMRteam[5]="PARK";
 
 	boyMRnameone[5]="Ohlson";
-        boyMRnametwo[5]="Brydon";
+        boyMRnametwo[5]="Smith";
         boyMRnamethree[5]="Volmar";
         boyMRnamefour[5]="Wang";
         boyMRtime[5]="1:47.54";

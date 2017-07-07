@@ -98,10 +98,15 @@ for (i=1;i<=14;i++)
 
 //boyS FREE
 //6&U
-	boyfreename[1]="Mike Armstrong";
-	boyfreetime[1]="16.90";
-	boyfreeyear[1]="1977";
-	boyfreeteam[1]="MVP";
+	//boyfreename[1]="Mike Armstrong";
+	//boyfreetime[1]="16.90";
+	//boyfreeyear[1]="1977";
+	//boyfreeteam[1]="MVP";
+	
+	boyfreename[1]="Jack Deal";
+	boyfreetime[1]="16.51";
+	boyfreeyear[1]="2017";
+	boyfreeteam[1]="PARK";
 //7-8
 	//boyfreename[2]="N.Lenzi";
 	//boyfreetime[2]="14.70";
@@ -216,8 +221,13 @@ boyfreename[7]="Robbie Fluegge";
         //boybreastyear[6]="2017";
         //boybreastteam[6]="PARK";
 	
+	//boybreastname[6]="Matt Peterson";
+        //boybreasttime[6]="28.15";
+        //boybreastyear[6]="2017";
+        //boybreastteam[6]="PARK";
+	
 	boybreastname[6]="Matt Peterson";
-        boybreasttime[6]="28.15";
+        boybreasttime[6]="27.95";
         boybreastyear[6]="2017";
         boybreastteam[6]="PARK";
 //15-18s		
