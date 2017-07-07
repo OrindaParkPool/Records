@@ -97,9 +97,14 @@ for (i=1;i<=14;i++)
 //BOYS FREE
 
 //6&U
-	boyfreename[1]="Brad Allen";
- 	boyfreetime[1]="16.55";
- 	boyfreeyear[1]="1989";
+	//boyfreename[1]="Brad Allen";
+ 	//boyfreetime[1]="16.55";
+ 	//boyfreeyear[1]="1989";
+ 	//boyfreeteam[1]="PARK";
+	
+	boyfreename[1]="Jack Deal";
+ 	boyfreetime[1]="16.51";
+ 	boyfreeyear[1]="2017";
  	boyfreeteam[1]="PARK";
 //7-8
 	boyfreename[2]="Gabe Ostler";
