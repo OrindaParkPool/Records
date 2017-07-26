@@ -102,8 +102,13 @@ for (i=1;i<=14;i++)
  	//boyfreeyear[1]="1989";
  	//boyfreeteam[1]="PARK";
 	
+	//boyfreename[1]="Jack Deal";
+ 	//boyfreetime[1]="16.51";
+ 	//boyfreeyear[1]="2017";
+ 	//boyfreeteam[1]="PARK";
+	
 	boyfreename[1]="Jack Deal";
- 	boyfreetime[1]="16.51";
+ 	boyfreetime[1]="16.34";
  	boyfreeyear[1]="2017";
  	boyfreeteam[1]="PARK";
 //7-8
